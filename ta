@@ -1,0 +1,307 @@
+
+
+<div class="tradingview-widget-container">
+<div class="tradingview-widget-container__widget"></div>
+<div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/BTCPERP/technicals/" rel="noopener" target="_blank"><span class="blue-text">Technical Analysis for BTCPERP</span></a> by TradingView</div>
+<script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "100%",
+  "isTransparent": false,
+  "height": "100%",
+  "symbol": "BINANCE:BTCPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+
+
+<div class="tradingview-widget-container">
+<div class="tradingview-widget-container__widget"></div>
+<div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/ETHUSDTPERP/technicals/" rel="noopener" target="_blank"><span class="blue-text">Technical Analysis for ETHUSDTPERP</span></a> by TradingView</div>
+<script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "100%",
+  "isTransparent": false,
+  "height": "100%",
+  "symbol": "BINANCE:ETHUSDTPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+
+
+<div class="tradingview-widget-container">
+<div class="tradingview-widget-container__widget"></div>
+<div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/DOTUSDTPERP/technicals/" rel="noopener" target="_blank"><span class="blue-text">Technical Analysis for DOTUSDTPERP</span></a> by TradingView</div>
+<script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "100%",
+  "isTransparent": false,
+  "height": "100%",
+  "symbol": "BINANCE:DOTUSDTPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+
+
+<div class="tradingview-widget-container">
+<div class="tradingview-widget-container__widget"></div>
+<div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/BNBUSDTPERP/technicals/" rel="noopener" target="_blank"><span class="blue-text">Technical Analysis for BNBUSDTPERP</span></a> by TradingView</div>
+<script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "100%",
+  "isTransparent": false,
+  "height": "100%",
+  "symbol": "BINANCE:BNBUSDTPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+
+
+<div class="tradingview-widget-container">
+<div class="tradingview-widget-container__widget"></div>
+<div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/XRPUSDTPERP/technicals/" rel="noopener" target="_blank"><span class="blue-text">Technical Analysis for XRPUSDTPERP</span></a> by TradingView</div>
+<script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "100%",
+  "isTransparent": false,
+  "height": "100%",
+  "symbol": "BINANCE:XRPUSDTPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+
+
+<div class="tradingview-widget-container">
+<div class="tradingview-widget-container__widget"></div>
+<div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/ADAPERP/technicals/" rel="noopener" target="_blank"><span class="blue-text">Technical Analysis for ADAPERP</span></a> by TradingView</div>
+<script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "100%",
+  "isTransparent": false,
+  "height": "100%",
+  "symbol": "BINANCE:ADAPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+
+
+<div class="tradingview-widget-container">
+<div class="tradingview-widget-container__widget"></div>
+<div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/LINKUSDTPERP/technicals/" rel="noopener" target="_blank"><span class="blue-text">Technical Analysis for LINKUSDTPERP</span></a> by TradingView</div>
+<script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "100%",
+  "isTransparent": false,
+  "height": "100%",
+  "symbol": "BINANCE:LINKUSDTPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+
+
+<div class="tradingview-widget-container">
+<div class="tradingview-widget-container__widget"></div>
+<div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/SOLUSDTPERP/technicals/" rel="noopener" target="_blank"><span class="blue-text">Technical Analysis for SOLUSDTPERP</span></a> by TradingView</div>
+<script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "100%",
+  "isTransparent": false,
+  "height": "100%",
+  "symbol": "BINANCE:SOLUSDTPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+
+
+<div class="tradingview-widget-container">
+<div class="tradingview-widget-container__widget"></div>
+<div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/AVAXUSDTPERP/technicals/" rel="noopener" target="_blank"><span class="blue-text">Technical Analysis for AVAXUSDTPERP</span></a> by TradingView</div>
+<script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "100%",
+  "isTransparent": false,
+  "height": "100%",
+  "symbol": "BINANCE:AVAXUSDTPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+
+
+<div class="tradingview-widget-container">
+<div class="tradingview-widget-container__widget"></div>
+<div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/MANAUSDTPERP/technicals/" rel="noopener" target="_blank"><span class="blue-text">Technical Analysis for MANAUSDTPERP</span></a> by TradingView</div>
+<script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "100%",
+  "isTransparent": false,
+  "height": "100%",
+  "symbol": "BINANCE:MANAUSDTPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+
+
+<div class="tradingview-widget-container">
+<div class="tradingview-widget-container__widget"></div>
+<div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/SANDUSDTPERP/technicals/" rel="noopener" target="_blank"><span class="blue-text">Technical Analysis for SANDUSDTPERP</span></a> by TradingView</div>
+<script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "100%",
+  "isTransparent": false,
+  "height": "100%",
+  "symbol": "BINANCE:SANDUSDTPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+
+
+<div class="tradingview-widget-container">
+<div class="tradingview-widget-container__widget"></div>
+<div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/MATICUSDTPERP/technicals/" rel="noopener" target="_blank"><span class="blue-text">Technical Analysis for MATICUSDTPERP</span></a> by TradingView</div>
+<script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "100%",
+  "isTransparent": false,
+  "height": "100%",
+  "symbol": "BINANCE:MATICUSDTPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+
+
+<div class="tradingview-widget-container">
+<div class="tradingview-widget-container__widget"></div>
+<div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/LUNAUSDTPERP/technicals/" rel="noopener" target="_blank"><span class="blue-text">Technical Analysis for LUNAUSDTPERP</span></a> by TradingView</div>
+<script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "100%",
+  "isTransparent": false,
+  "height": "100%",
+  "symbol": "BINANCE:LUNAUSDTPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+
+
+<div class="tradingview-widget-container">
+<div class="tradingview-widget-container__widget"></div>
+<div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/ATOMPERP/technicals/" rel="noopener" target="_blank"><span class="blue-text">Technical Analysis for ATOMPERP</span></a> by TradingView</div>
+<script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "100%",
+  "isTransparent": false,
+  "height": "100%",
+  "symbol": "BINANCE:ATOMPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+
+
+<div class="tradingview-widget-container">
+<div class="tradingview-widget-container__widget"></div>
+<div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/ALGOUSDTPERP/technicals/" rel="noopener" target="_blank"><span class="blue-text">Technical Analysis for ALGOUSDTPERP</span></a> by TradingView</div>
+<script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "100%",
+  "isTransparent": false,
+  "height": "100%",
+  "symbol": "BINANCE:ALGOUSDTPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+
+
+<div class="tradingview-widget-container">
+<div class="tradingview-widget-container__widget"></div>
+<div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/HBARUSDTPERP/technicals/" rel="noopener" target="_blank"><span class="blue-text">Technical Analysis for HBARUSDTPERP</span></a> by TradingView</div>
+<script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "100%",
+  "isTransparent": false,
+  "height": "100%",
+  "symbol": "BINANCE:HBARUSDTPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+
+
+<div class="tradingview-widget-container">
+<div class="tradingview-widget-container__widget"></div>
+<div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/EGLDUSDTPERP/technicals/" rel="noopener" target="_blank"><span class="blue-text">Technical Analysis for EGLDUSDTPERP</span></a> by TradingView</div>
+<script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "100%",
+  "isTransparent": false,
+  "height": "100%",
+  "symbol": "BINANCE:EGLDUSDTPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+
