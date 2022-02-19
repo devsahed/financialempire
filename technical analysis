@@ -1,0 +1,528 @@
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/BTCUSDTPERP/technicals/" rel="noopener" target="_blank">
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "1400",
+  "isTransparent": false,
+  "height": "470",
+  "symbol": "BINANCE:BTCUSDTPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/ETHUSDTPERP/technicals/" rel="noopener" target="_blank">
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "1400",
+  "isTransparent": false,
+  "height": "470",
+  "symbol": "BINANCE:ETHUSDTPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/DOTUSDTPERP/technicals/" rel="noopener" target="_blank">
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "1400",
+  "isTransparent": false,
+  "height": "470",
+  "symbol": "BINANCE:DOTUSDTPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/BNBUSDTPERP/technicals/" rel="noopener" target="_blank">
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "1400",
+  "isTransparent": false,
+  "height": "470",
+  "symbol": "BINANCE:BNBUSDTPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/XRPUSDTPERP/technicals/" rel="noopener" target="_blank">
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "1400",
+  "isTransparent": false,
+  "height": "470",
+  "symbol": "BINANCE:XRPUSDTPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/ADAUSDTPERP/technicals/" rel="noopener" target="_blank">
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "1400",
+  "isTransparent": false,
+  "height": "470",
+  "symbol": "BINANCE:ADAUSDTPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/LINKUSDTPERP/technicals/" rel="noopener" target="_blank">
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "1400",
+  "isTransparent": false,
+  "height": "470",
+  "symbol": "BINANCE:LINKUSDTPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/SOLUSDTPERP/technicals/" rel="noopener" target="_blank">
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "1400",
+  "isTransparent": false,
+  "height": "470",
+  "symbol": "BINANCE:SOLUSDTPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/AVAXUSDTPERP/technicals/" rel="noopener" target="_blank">
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "1400",
+  "isTransparent": false,
+  "height": "470",
+  "symbol": "BINANCE:AVAXUSDTPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/MANAUSDTPERP/technicals/" rel="noopener" target="_blank">
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "1400",
+  "isTransparent": false,
+  "height": "470",
+  "symbol": "BINANCE:MANAUSDTPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/SANDUSDTPERP/technicals/" rel="noopener" target="_blank">
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "1400",
+  "isTransparent": false,
+  "height": "470",
+  "symbol": "BINANCE:SANDUSDTPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/ATOMUSDTPERP/technicals/" rel="noopener" target="_blank">
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "1400",
+  "isTransparent": false,
+  "height": "470",
+  "symbol": "BINANCE:ATOMUSDTPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/ALGOUSDTPERP/technicals/" rel="noopener" target="_blank">
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "1400",
+  "isTransparent": false,
+  "height": "470",
+  "symbol": "BINANCE:ALGOUSDTPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/HBARUSDTPERP/technicals/" rel="noopener" target="_blank">
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "1400",
+  "isTransparent": false,
+  "height": "470",
+  "symbol": "BINANCE:HBARUSDTPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/EGLDUSDTPERP/technicals/" rel="noopener" target="_blank">
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "1400",
+  "isTransparent": false,
+  "height": "470",
+  "symbol": "BINANCE:EGLDUSDTPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NEARUSDTPERP/technicals/" rel="noopener" target="_blank">
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "1400",
+  "isTransparent": false,
+  "height": "470",
+  "symbol": "BINANCE:NEARUSDTPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/LUNAUSDTPERP/technicals/" rel="noopener" target="_blank">
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "1400",
+  "isTransparent": false,
+  "height": "470",
+  "symbol": "BINANCE:LUNAUSDTPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/MATICUSDTPERP/technicals/" rel="noopener" target="_blank">
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "1400",
+  "isTransparent": false,
+  "height": "470",
+  "symbol": "BINANCE:MATICUSDTPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/1INCHUSDTPERP/technicals/" rel="noopener" target="_blank">
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "1400",
+  "isTransparent": false,
+  "height": "470",
+  "symbol": "BINANCE:1INCHUSDTPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/AXSUSDTPERP/technicals/" rel="noopener" target="_blank">
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "1400",
+  "isTransparent": false,
+  "height": "470",
+  "symbol": "BINANCE:AXSUSDTPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/EOSUSDTPERP/technicals/" rel="noopener" target="_blank">
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "1400",
+  "isTransparent": false,
+  "height": "470",
+  "symbol": "BINANCE:EOSUSDTPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/HNTUSDTPERP/technicals/" rel="noopener" target="_blank">
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "1400",
+  "isTransparent": false,
+  "height": "470",
+  "symbol": "BINANCE:HNTUSDTPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/SKLUSDTPERP/technicals/" rel="noopener" target="_blank">
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "1400",
+  "isTransparent": false,
+  "height": "470",
+  "symbol": "BINANCE:SKLUSDTPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/BALUSDTPERP/technicals/" rel="noopener" target="_blank">
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "1400",
+  "isTransparent": false,
+  "height": "470",
+  "symbol": "BINANCE:BALUSDTPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+<!-- TradingView Widget END -->
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/ENJUSDTPERP/technicals/" rel="noopener" target="_blank">
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "1400",
+  "isTransparent": false,
+  "height": "470",
+  "symbol": "BINANCE:ENJUSDTPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/BELUSDTPERP/technicals/" rel="noopener" target="_blank">
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "1400",
+  "isTransparent": false,
+  "height": "470",
+  "symbol": "BINANCE:BELUSDTPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/CELRUSDTPERP/technicals/" rel="noopener" target="_blank">
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "1400",
+  "isTransparent": false,
+  "height": "470",
+  "symbol": "BINANCE:CELRUSDTPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/TLMUSDTPERP/technicals/" rel="noopener" target="_blank">
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "1400",
+  "isTransparent": false,
+  "height": "470",
+  "symbol": "BINANCE:TLMUSDTPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/OGNUSDTPERP/technicals/" rel="noopener" target="_blank">
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "1400",
+  "isTransparent": false,
+  "height": "470",
+  "symbol": "BINANCE:OGNUSDTPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/ZILUSDTPERP/technicals/" rel="noopener" target="_blank">
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "1400",
+  "isTransparent": false,
+  "height": "470",
+  "symbol": "BINANCE:ZILUSDTPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/THETAUSDTPERP/technicals/" rel="noopener" target="_blank">
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "interval": "5m",
+  "width": "1400",
+  "isTransparent": false,
+  "height": "470",
+  "symbol": "BINANCE:THETAUSDTPERP",
+  "showIntervalTabs": true,
+  "locale": "en",
+  "colorTheme": "dark"
+}
+  </script>
+</div>
